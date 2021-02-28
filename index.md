@@ -1,6 +1,3 @@
----
-layout: page
----    
 ## Positiono
 Senior Researcher [2019 - present]  
 Department of Computing, University of Turku
