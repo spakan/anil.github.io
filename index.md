@@ -1,8 +1,6 @@
 ---
 layout: page
----
-  
-    
+---    
 ## Position
 Senior Researcher [2019 - present]  
 Department of Computing, University of Turku
