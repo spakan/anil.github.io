@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-## Current
+## Curr
 Senior Researcher  
 Department of Computing  
 University of Turku
