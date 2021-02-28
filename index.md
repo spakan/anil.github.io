@@ -1,8 +1,8 @@
 ---
-layout: post-index
+layout: page
 ---
 
-## Positiono
+<h3> Position </h3>
 Senior Researcher [2019 - present]  
 Department of Computing, University of Turku
 
