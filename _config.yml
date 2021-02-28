@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: ak
+title: Anil Kanduri
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,7 +8,9 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Anil Kanduri
   avatar: bio.jpg
-  bio: "Senior Researcher, Dept. of Computing, University of Turku."
+  bio: "Senior Researcher
+        Dept. of Computing
+        University of Turku"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
