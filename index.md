@@ -1,4 +1,7 @@
-## Current
+---
+layout: page
+excerpt: "About Me..."
+---
 
 Senior Researcher [2019 - ]  
 Department of Computing, University of Turku
