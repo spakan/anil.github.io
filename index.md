@@ -2,7 +2,7 @@
 layout: page
 ---
   
-  
+...  
 ## Current
 
 Senior Researcher [2019 - ]  
@@ -10,7 +10,6 @@ Department of Computing, University of Turku
 
 Doctoral Researcher [2014-2018]  
 Department of IT, University of Turku
-
 
 ## Education
 
