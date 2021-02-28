@@ -3,9 +3,8 @@ layout: page
 ---
   
     
-## Current
-
-Senior Researcher [2019 - ]  
+## Position
+Senior Researcher [2019 - present]  
 Department of Computing, University of Turku
 
 Doctoral Researcher [2014-2018]  
