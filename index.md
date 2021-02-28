@@ -1,12 +1,15 @@
 ---
 layout: page
-excerpt: "About Me..."
+"excerpt: "About Me..."
 ---
 
-## Curr
-Senior Researcher  
-Department of Computing  
-University of Turku
+## Current
+Senior Researcher [2019 - ]  
+Department of Computing, University of Turku
+
+Doctoral Researcher [2014-2018]
+Department of IT, University of Turku
+
 
 ## Education
 - PhD in Computer Systems, University of Turku, 2018. 
