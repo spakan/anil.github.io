@@ -20,7 +20,7 @@ layout: page
 - Power and performance aware design for many-core systems
 
 <h3> Projects </h3>
-- APROPOS, Approximate computing for power and energy optimization, Marie Curie ITN, EU Commission, [2021-2014]
+- APROPOS, Approximate computing for power and energy optimization, Marie Curie ITN, EU Commission, [2021-2024]
 - ACTER - Approximation for Edge Processing, Academy of Finland, [2017-2021]
 - MANAGE - Management of on-chip resources in Dark Silicon era, Academy of Finland, [2014-2017]
 
