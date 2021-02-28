@@ -1,67 +1,28 @@
 ---
-layout: resume
+layout: page
 title:  Research
 ---
-## Currently
 
-Current Position Description
+<h3> Interests </h3>
+- Broad - Computer Systems, Run-time Resource Management
+- Heterogeneous and energy efficient architectures
+- Run-time power, performance, thermal modeling and analysis
+- Distributed and edge processing
 
-## Education
+<h3> Ongoing activities </h3>
+- Orchestration of distributed edge devices
+- Self-aware and online learning for run-time resource management
+- Dynamic approximation for wearable computing
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+<h3> Past activities </h3>
+- Self-aware autonomy for on-chip resource management
+- Run-time resource management of embedded HMPs
+- Power and performance aware design for many-core systems
 
-`1995 - 1997`
-__University Name__
-Degree Awarded
-
-## Awards
-
-`2012`
-Name of Award, Organization
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer
-
-- Task
-- Task
-
+<h3> Projects </h3>
+- APROPOS, Approximate computing for power and energy optimization, Marie Curie ITN, EU Commission, [2021-2014]
+- ACTER - Approximation for Edge Processing, Academy of Finland, [2017-2021]
+- MANAGE - Management of on-chip resources in Dark Silicon era, Academy of Finland, [2014-2017]
 
 
 <!-- ### Footer
