@@ -8,8 +8,8 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Anil Kanduri
   avatar: bio.jpg
-  bio: "Senior Researcher
-        Dept. of Computing  
+  bio: "Senior Researcher \n
+        Dept. of Computing \n 
         University of Turku"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
