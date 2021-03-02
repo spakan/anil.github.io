@@ -18,9 +18,9 @@ ACM Transactions on Embedded Computer Systems (ACM-TECS) 2021.
 Elham Shamsa, Anil Kanduri, Amir M. Rahmani and Pasi Liljeberg.  
 Asia and South Pacific Design Automation Conference (ASP-DAC) 2021.  
 
-[User-centric Resource Management for Embedded Multi-core Processors]
-Elham Shamsa, Anil Kanduri, Nima Taherinejad, Alma Proebstl, Samarjit Chakraborty, Amir M. Rahmani and Pasi Liljeberg.
-IEEE International Conference on VLSI Design (VLSID) 2020.
+[User-centric Resource Management for Embedded Multi-core Processors](./pubs/2020/Shamsa_VLSID_2020)  
+Elham Shamsa, Anil Kanduri, Nima Taherinejad, Alma Proebstl, Samarjit Chakraborty, Amir M. Rahmani and Pasi Liljeberg.  
+IEEE International Conference on VLSI Design (VLSID) 2020.  
 
 [On-chip Dynamic Resource Management]
 Antonio Miele, Anil Kanduri, Kasra Moazzemi, David Juhasz, Amir M. Rahmani, Nikil Dutt, Pasi Liljeberg and Axel Jantsch
