@@ -7,12 +7,12 @@ excerpt: "Recent Publications"
 https://dblp.uni-trier.de/pid/144/4346.html
 
 [Concurrent Application Bias Scheduling for Energy Efficiency of Heterogeneous Multi-Core platforms]
-(./pubs/2021/Shamsa_TC_2021)
+(./pubs/2021/Shamsa_TC_2021.pdf)
 Elham Shamsa, Anil Kanduri, Pasi Liljeberg, and Amir M. Rahmani.  
 IEEE Transactions on Computer (IEEE-TC) 2021.  
 
 [UBAR: User and Battery Aware Resource Management for Smart Phones]
-(./pubs/2021/Shamsa_TECS_2021)
+(./pubs/2021/Shamsa_TECS_2021.pdf)
 Elham Shamsa, Alma Proebstl, Nima Taherinejad, Anil Kanduri, Samarjit Chakraborty, Amir M. Rahmani and Pasi Liljeberg.
 ACM Transactions on Embedded Computer Systems (ACM-TECS) 2021.
 
