@@ -3,8 +3,8 @@ layout: page
 #title: Publications
 excerpt: "Recent Publications"
 ---
-<h3> [dblp](https://dblp.uni-trier.de/pid/144/4346.html)
-</h3>
+[dblp](https://dblp.uni-trier.de/pid/144/4346.html)
+
 
 [Concurrent Application Bias Scheduling for Energy Efficiency of Heterogeneous Multi-Core platforms](./pubs/2021/Shamsa_TC_2021.pdf)  
 Elham Shamsa, Anil Kanduri, Pasi Liljeberg, and Amir M. Rahmani.  
