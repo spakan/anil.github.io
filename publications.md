@@ -38,7 +38,7 @@ ACM/IEEE Design Automation Conference (DAC), 2018.
 Anil Kanduri, Hashem Haghbayan, Amir Rahmani, Muhammad Shafique, Axel Jantsch and Pasi Liljeberg.  
 IEEE Transactions on Computer (IEEE-TC), 2018.
 
-[Accuracy-Aware Power Management for Many-Core Systems Running Error-Resilient Applications](.pubs/2017_and_past/Kanduri_TVLSI_2017.pdf)  
+[Accuracy-Aware Power Management for Many-Core Systems Running Error-Resilient Applications](./pubs/2017_and_past/Kanduri_TVLSI_2017.pdf)  
 Anil Kanduri, Hashem Haghbayan, Amir Rahmani,Pasi Liljeberg, Axel Jantsch, Hannu Tenhunen and Nikil Dutt.  
 IEEE Transactions on VLSI Systems (IEEE-TVLSI), 2017.
 
